@@ -1,3 +1,8 @@
+/**
+ * author: baungo
+ * github: https://github.com/Baungo
+ */
+
 // key, value, number, string, boolean, object[null], colon, comma, brace
 function colorful(json) {
   const l_kv = /^(\s*)(".+")(: )(.*[\d"lde]|[\{\[])(,?)$/g; // 键行
