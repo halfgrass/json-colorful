@@ -1,6 +1,6 @@
 # js JSON着色工具 
 
-使用JSON自带的stringify格式化后，用正则表达式对每行进行处理。 
+使用JSON自带的stringify格式化后，用正则表达式对每行进行处理。 <a href="demo/" target="_blank">Demo</a>
 
 ## class 
 - key: json key 
