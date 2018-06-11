@@ -1,4 +1,4 @@
-// key, value, number, string, boolean, null, colon, comma, brace
+// key, value, number, string, boolean, object[null], colon, comma, brace
 function colorful(json) {
   const l_kv = /^(\s*)(".+")(: )(.*[\d"lde]|[\{\[])(,?)$/g; // 键行
   const l_v = /^(\s*)(-?\d\.\d+|-?\d+|".+"|null|undefined|true|false|[\{\}\[\]])(,?)$/g;    // 值行
