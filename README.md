@@ -8,7 +8,7 @@
 - number: numeric value 
 - string: string value 
 - boolean: boolean value 
-- null: null value 
+- object: null value 
 - colon: :  
 - comma: , 
 - brace: braces or brackets 
