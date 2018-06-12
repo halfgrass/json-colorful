@@ -1,7 +1,8 @@
 # js JSON着色工具 
 
-使用JSON自带的stringify格式化后，用正则表达式对每行进行处理。 <a href="demo/" target="_blank">Demo</a>
-
+- colorful.regexp.js: 使用JSON自带的stringify格式化后，用正则表达式对每行进行处理。 
+- colorful.recursion.js: 使用递归遍历key着色。 
+- <a href="demo/" target="_blank">Demo</a>
 ## class 
 - key: json key 
 - value: default value  
